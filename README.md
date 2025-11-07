@@ -1,3 +1,3 @@
 # tourism_app
 
-A new Flutter project.
+Sebuah aplikasi flutter yang menggunakan fitur Material Design, State Management Provider, Web APIs
